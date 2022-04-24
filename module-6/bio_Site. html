@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+
+    <title>bio Site 'Cruising Queen' </title>
+
+    <link rel="stylesheet" type="text/css" href="bio_Site.css">
+
+    <!-- Google fonts for Playfair Display -->
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital@1&display=swap" rel="stylesheet">
+</head>
+
+
+<body>
+
+    <header id="home">
+       Landing Page
+    </header>
+
+              <nav class="navbar">
+                  <a href="#home">Home</a>
+                  <a href="#hobbies">Hobbies</a>
+                  <a href="#experience">Experience</a>
+              </nav>  
+
+    <div class="container">
+
+        <div class="hobbies" id="hobbies">
+            <h1>Hobbies</h1>
+
+            <div class="grid-3-col">
+                <div class="card">
+                    <div class="card-title">
+                        'Crusing Queen' Cindy
+                    </div>
+                    <div class="card-content">
+                        Cindy is a cruiser. Cruising is enjoyable for many people. It's a chance for you to disconnect from work or a hectic 
+                        schedule and reconnect with your playful side. In general, cruises are meant to make passengers happy, and they 
+                        frequently feature nightly entertainment, a variety of onboard activities, variety in stops and all the food you could eat. 
+                        
+                        Asking Cindy about the reasons why she cruises is a fun conversation as she lights up when talking about the various items:
+                    </div>
+                    
+                          <ul>
+                            <li> Fun Times </li>
+                            <li> Family Bonding </li>
+                            <li> Don't have to clean up </li>
+                            <li> All you can eat and try food </li>
+                            <li> Getting away </li>
+                            <li> Adult gaming </li>
+                            <li> Getting a little history along the way </li>
+                            <li> Activities for all levels </li>
+                            <li> Adventure at every stop </li>
+                            <li> Seeing the world a little at a time </li>
+                          </ul>
+                            
+                            
+              </div>
+
+                <div class="card">
+                    <div class="card-title">
+                        Hobbies
+                    </div>
+                    <div class="card-content">
+                        Cindy is now platium level cruising and plans on continuing the hobby. She frequents Carnival who uses a membership program called
+                        VIFP. Unlike rival Royal Caribbean, Carnival does not provide a free cruise to loyalty club members who achieve the top tier. 
+                        There are no 20 percent discounts on some sailings like those offered by Windstar cruises. However, the VIFP Club, as Carnival's 
+                        loyalty program is known, offers several useful privileges at its higher tiers, including as priority access to many onboard 
+                        venues and services. It's also a program where achieving a high-level tier is quite simple. 
+                        
+                        If you're wondering, VIFP stands for "very important fun person," a lighthearted reference to Carnival's moniker 
+                        as the "fun ship" line.
+                        
+                        The VIFP Club's point-earning mechanism is really straightforward. Every day you sail on a Carnival ship earns you one point.
+                        Three points are awarded for a three-night cruise. You'll earn seven points if you go on a seven-night cruise.
+                        As opposed to certain lines, you won't have to worry about different earning levels for different cabin grades or 
+                        different sorts of bookings.
+                    </div>
+                </div>
+
+                <div class="card">
+                    <div class="card-title">
+                        Experience
+                    </div>
+                    <div class="card-content">
+                        Cindy has been on several cruises and various cruise lines. Her go to is going out of the Galveston port to hit the Caribeean where 
+                        it has balmy breezes and warm waters. She has also done cruises from California to Hawaii and from Seattle to Alaska but her family's 
+                        go to destenation is southern, Caribbean ports which include the following ports:
+                    </div>
+                    
+                    <ul>
+                            <li> Cozumel </li>
+                            <li> Costa Maya </li>
+                            <li> Belize </li>
+                            <li> Mahogany Bay </li>
+                            <li> Freeport </li>
+                            <li> Limon </li>
+                            <li> Grand Cayman </li>
+                            <li> Montego Bay </li>
+                            <li> Nassau </li>
+                            <li> Key West </li>
+                           
+                          </ul>
+                </div>
+            </div>
+        </div>
+
+        
+</body>
+</html>
