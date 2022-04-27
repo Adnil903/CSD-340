@@ -18,24 +18,28 @@ header {
     text-align: center;
 }
 
-.navbar {
-    overflow: hidden;
-    background-color: #B74CFF;
-    border-bottom: 15px solid #D6A800;
+.topnav {
+  overflow: hidden;
+  background-color: #B74CFF;
 }
 
-.navbar a {
-    float: left;
-    display: block;
-    color: #B74CFF;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
+.topnav a {
+  float: left;
+  color: #6B00B2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
 }
 
-.navbar a:hover {
-    background-color: #B74CFF;
-    color: #000000;
+.topnav a:hover {
+  background-color: #99FFFF;
+  color: black;
+}
+
+.topnav a.active {
+  background-color: #6B00B2;
+  color: white;
 }
 
 h1 {
