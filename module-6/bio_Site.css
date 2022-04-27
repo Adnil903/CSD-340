@@ -12,7 +12,7 @@ body {
 }
 
 header {
-    background-color: #d2c5e3;
+    background-color: 6B00B2;
     color: #4C4C4C;
     padding: 20px;
     text-align: center;
@@ -20,35 +20,38 @@ header {
 
 .navbar {
     overflow: hidden;
-    background-color: #b6abc4;
+    background-color: #B74CFF;
     border-bottom: 15px solid #D6A800;
 }
 
 .navbar a {
     float: left;
     display: block;
-    color: #4C4C4C;
+    color: #B74CFF;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
 }
 
 .navbar a:hover {
-    background-color: #b6abc4;
+    background-color: #B74CFF;
     color: #000000;
 }
 
 h1 {
     font-weight: 400;
     text-align: center;
+    background: #6B00B2;
 }
 
 .hobbies {
     min-height: 250px;
+    background: #6B00B2;
 }
 
 .experience {
     min-height: 250px;
+    background: #6B00B2;
 }
 
 .contact-container {
@@ -56,6 +59,7 @@ h1 {
     padding: 10px;
     text-align: center;
     margin-bottom: 10%;
+    background: #6B00B2;
 }
 
 .full-width {
