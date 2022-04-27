@@ -18,11 +18,13 @@
        Landing Page
     </header>
 
-              <nav class="navbar">
+              <div class="topnav">
                   <a href="#home">Home</a>
-                  <a href="#hobbies">Hobbies</a>
-                  <a href="#experience">Experience</a>
-              </nav>  
+                  <a href="#about">About</a>
+                  <a href="#cruising">Cruising</a>
+                  <a href="#rving">RVing</a>
+                  <a href="#travel">Travel</a>
+              </div>  
 
     <div class="container">
 
