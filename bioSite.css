@@ -1,0 +1,73 @@
+html {
+    box-sizing: border-box;
+}
+
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+
+body {
+    margin: 0 auto;
+    font-family: 'Playfair Display', Verdana, Arial, sans-serif;
+}
+
+header {
+    background-color: 6B00B2;
+    color: #4C4C4C;
+    padding: 20px;
+    text-align: center;
+}
+
+.topnav {
+  overflow: hidden;
+  background-color: #B74CFF;
+}
+
+.topnav a {
+  float: left;
+  color: #6B00B2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: #99FFFF;
+  color: black;
+}
+
+.topnav a.active {
+  background-color: #6B00B2;
+  color: white;
+}
+
+h1 {
+    font-weight: 400;
+    text-align: center;
+    background: #6B00B2;
+}
+
+.hobbies {
+    min-height: 250px;
+    background: #6B00B2;
+}
+
+.experience {
+    min-height: 250px;
+    background: #6B00B2;
+}
+
+.contact-container {
+    margin-top: 20px;
+    padding: 10px;
+    text-align: center;
+    margin-bottom: 10%;
+    background: #6B00B2;
+}
+
+.full-width {
+    width: 100%;
+}
+
+
