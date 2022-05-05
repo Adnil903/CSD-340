@@ -44,6 +44,7 @@ header {
 
 h1,h2 {
     font-weight: 400;
+    font-size: 20px;
     text-align: center;
     background: #6B00B2;
 }
@@ -54,30 +55,36 @@ h1,h2 {
     text-align: center;
     margin-bottom: 10%;
     background: #6B00B2;
+    font-size: 15px;
 }
 
 .home {
     min-height: 250px;
     background: #6B00B2;
+    font-size: 15px;
 }
 
 .about {
     min-height: 250px;
     background: #6B00B2;
+    font-size: 15px;
 }
 
 .cruising {
     min-height: 250px;
     background: #6B00B2;
+    font-size: 15px;
 
 .rving {
     min-height: 250px;
     background: #6B00B2;
+    font-size: 15px;
 }
 
 .travel {
     min-height: 250px;
     background: #6B00B2;
+    font-size: 15px;
 }
 
 }
