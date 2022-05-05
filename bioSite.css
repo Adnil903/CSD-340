@@ -12,7 +12,7 @@ body {
 }
 
 header {
-    background-color: 6B00B2;
+    background-color: #6b00b2;
     color: #4C4C4C;
     padding: 20px;
     text-align: center;
@@ -25,7 +25,7 @@ header {
 
 .topnav a {
   float: left;
-  color: #6B00B2;
+  color: #6b00b2;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
@@ -38,7 +38,7 @@ header {
 }
 
 .topnav a.active {
-  background-color: #6B00B2;
+  background-color: #6b00b2;
   color: white;
 }
 
@@ -46,7 +46,7 @@ h1,h2 {
     font-weight: 400;
     font-size: 20px;
     text-align: center;
-    background: #6B00B2;
+    background: #6b00b2;
 }
 
 .container {
@@ -54,39 +54,54 @@ h1,h2 {
     padding: 10px;
     text-align: center;
     margin-bottom: 10%;
-    background: #6B00B2;
+    background: #6b00b2;
     font-size: 15px;
 }
 
 .home {
     min-height: 250px;
-    background: #6B00B2;
+    background: #6b00b2;
     font-size: 15px;
+    color: black;
 }
 
 .about {
     min-height: 250px;
-    background: #6B00B2;
+    background: #6b00b2;
     font-size: 15px;
+    color: black;
 }
 
 .cruising {
     min-height: 250px;
-    background: #6B00B2;
+    background: #6b00b2;
     font-size: 15px;
+    color: black;
 
 .rving {
     min-height: 250px;
-    background: #6B00B2;
+    background: #6b00b2;
     font-size: 15px;
+    color: black;
 }
 
 .travel {
     min-height: 250px;
-    background: #6B00B2;
+    background: #6b00b2;
     font-size: 15px;
+    color: black;
 }
 
+ #back-to-top {
+    font-family: 'Playfair Display', Verdana, Arial, sans-serif;
+    text-decoration: none;
+  
+}
+
+ #back-to-top:hover {
+    text-decoration: underline;
+}
+    
 }
 .full-width {
     width: 100%;
