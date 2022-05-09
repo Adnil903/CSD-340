@@ -11,11 +11,11 @@ body {
     font-family: 'Playfair Display', Verdana, Arial, sans-serif;
 }
 
-header {
-    background-color: #6b00b2;
-    color: #4C4C4C;
+header, footer {
+    background-color: #66FFFF;
+    color: black
     padding: 20px;
-    text-align: center;
+    text-align: left;
 }
 
 .topnav {
@@ -42,11 +42,20 @@ header {
   color: white;
 }
 
-h1,h2 {
+h1 {
     font-weight: 400;
     font-size: 20px;
-    text-align: center;
-    background: #6b00b2;
+    text-align: left;
+    background: #66FFFF;
+    color: black;
+}
+
+h2 {
+    font-weight: 300;
+    font-size: 17px;
+    text-align: left;
+    background: #66FFFF;
+    color: black;
 }
 
 .container {
@@ -62,34 +71,34 @@ h1,h2 {
     min-height: 250px;
     background: #6b00b2;
     font-size: 15px;
-    color: black;
+    color: white;
 }
 
 .about {
     min-height: 250px;
     background: #6b00b2;
     font-size: 15px;
-    color: black;
+    color: white;
 }
 
 .cruising {
     min-height: 250px;
     background: #6b00b2;
     font-size: 15px;
-    color: black;
+    color: white;
 
 .rving {
     min-height: 250px;
     background: #6b00b2;
     font-size: 15px;
-    color: black;
+    color: white;
 }
 
 .travel {
     min-height: 250px;
     background: #6b00b2;
     font-size: 15px;
-    color: black;
+    color: white;
 }
 
  #back-to-top {
