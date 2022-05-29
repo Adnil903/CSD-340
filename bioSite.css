@@ -121,3 +121,9 @@ img {
     height: 350px;
 }
 
+ul {
+    font-size: 15px;
+    color: white;
+    background: #6b00b2;
+    text-align: center;
+}
