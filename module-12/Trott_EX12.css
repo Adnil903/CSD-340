@@ -12,7 +12,7 @@ body {
 }
 
 header {
-    background-color: #3c275a;
+    background-color: #e624ed;
     color: #fff;
     padding: 20px;
     text-align: center;
@@ -20,8 +20,8 @@ header {
 
 .navbar {
     overflow: hidden;
-    background-color: #4F3674;
-    border-bottom: 15px solid #D6A800;
+    background-color: #e624ed;
+    border-bottom: 15px solid #24edea;
 }
 
 .navbar a {
@@ -34,8 +34,8 @@ header {
 }
 
 .navbar a:hover {
-    background-color: #D6A800;
-    color: #4F3674;
+    background-color: #e624ed;
+    color: #24edea;
 }
 
 h1 {
@@ -81,7 +81,7 @@ h1 {
 .card-title {
     text-align: center;
     font-size: 2em;
-    color: #4F3674;
+    color: #24edea;
     font-weight: 400;
 }
 
@@ -126,13 +126,13 @@ h1 {
 }
 
 .btn-primary {
-    background-color: #4F3674;
+    background-color: #e624ed;
     color: #fff;
 }
 
 .btn-primary:hover {
-    background-color: #D6A800;
-    color: #4F3674;
+    background-color: #24edea;
+    color: #e624ed;
 }
 
 .full-width {
